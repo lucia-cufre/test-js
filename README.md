@@ -1,5 +1,7 @@
 Teste realizado para processo seletivo da Ino Games.
+Link;
 https://github.com/lucia-cufre/test-js/tree/test-js
+
 Exercícios propostos; 
 
 # Winning Combinations Challenge
